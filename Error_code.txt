@@ -1,0 +1,67 @@
+1 mysql error
+-----------------------
+000 query error
+001 connect error
+
+2 php error
+-----------------------
+0000 session error
+
+01 grab web
+// 00 fetch error
+// 01 catch error
+// 02 need fb permission
+// 03 fb error
+///// 1 fb search album error
+///// 2 fb token invalid
+
+0200 grab thumbs error
+
+03[*] grab real pic from[album type]
+// 00 file error
+
+04 compute
+// 00 sort error
+// 01 dup error
+///// 1 file error
+///// 2 algo error
+// 02 face generate error
+// 03 face detec error
+
+05 database error
+// 00 not enough information
+///// 1 handle
+///// 2 name
+///// 3 desc
+///// 4 data
+///// 5 owner
+// 01 identification error
+// 02 save/load error
+
+3 font error
+------------------------
+00 not enough information
+// 00 font name
+// 01 font size
+// 02 bold
+// 03 italic
+// 04 text
+
+0100 output error
+
+02 fontinfo error
+// 00 no cache error
+// 01 generate error
+// 02 no table error
+// 03 no this font
+// 04 no this font's cmap
+
+4 user error
+-------------------------
+00 picture error
+// 00 not enough space
+
+01 modify error
+// 00 not enough information
+///// 1 picture id
+///// 2 title,tag

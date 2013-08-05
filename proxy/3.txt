@@ -1,0 +1,650 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content='該相片未提供敘述' />
+<meta name="medium" content="image" />
+<link rel="image_src" type="image/jpeg" href="http://f5.wretch.yimg.com/luss/11/thumbs/t1567747374.jpg?D5BsnnhDcRCh5LtCniABGQ9jNfuDcy5KrFPT0xeoFbvd7vHdBYcP5Hs-" />
+<link rel="shortcut icon" type="image/x-icon" href="http://pic.wretch.cc/e/serv/common/favicon.ico" />
+<title>02/20 可愛摺耳貓-- - WRETCH</title>
+<link rel="stylesheet" href="http://f5.wretch.yimg.com/luss/files/album.css?1239470161" type="text/css" />
+<link rel="stylesheet" href="http://pic.wretch.cc/e/serv/album/css/font.css" type="text/css" />
+<link rel="stylesheet" href="http://yui.yahooapis.com/2.8.0r4/build/fonts/fonts-min.css" type="text/css" />
+<link rel="stylesheet" href="http://yui.yahooapis.com/2.8.0r4/build/container/assets/skins/sam/container.css" type="text/css" />
+<link rel="stylesheet" href="http://l.yimg.com/e/serv/common/css/sharing.css" type="text/css">
+<link rel="stylesheet" href="http://pic.wretch.cc/e/serv/common/css/persistent_footer.css" type="text/css">
+<style type="text/css">
+  .yzq_x{
+    display:none;
+  }
+  html body table tr td#ad_banner img.yzq_x
+  {
+     width: 0px !important;
+     height: 0px !important;
+  }
+
+</style>
+<script type="text/javascript">
+  show_hotkey_parameters = new Array();
+  show_hotkey_parameters['first'] = false;
+  show_hotkey_parameters['prev'] = false;
+  show_hotkey_parameters['next'] = true;
+  show_hotkey_parameters['last'] = true;
+  show_hotkey_parameters['origin'] = false;
+  show_hotkey_parameters['slide'] = true;
+  show_hotkey_parameters['exif'] = true;
+  show_hotkey_parameters['admin'] = false;
+  show_hotkey_parameters['admin_cookie'] = 1;
+
+  function check_description_length()
+  {
+    if (document.getElementById('sm_desc').value.length > 255)
+    {
+      alert('說明文字過長! (只能輸入 255 個字喲)');
+      return false;
+    }
+
+    return true;
+  }
+</script>
+<script type="text/javascript" src="http://pic.wretch.cc/e/serv/album/js/hotkey.js" type="text/javascript"></script>
+<script src="http://pic.wretch.cc/e/serv/common/js/swfobject.js" type="text/javascript"></script>
+<script src="http://pic.wretch.cc/e/serv/common/js/AC_OETags.js" type="text/javascript"></script>
+<script language="JavaScript">
+  var ysmrubyctxtID = "tw_blog_pets_001";
+  var ysmrubyPartner = "wretch_tw_photo_top_category_cm";
+  var ysmrubytype = "pet";
+  function layer_toggle(obj)
+  {
+    if (obj.style.display == 'none') obj.style.display = 'block';
+    else if (obj.style.display == 'block') obj.style.display = 'none';
+  }
+  function onclick_folder(hc, fd, url, check) {
+    if (hc.style.display == 'none') 
+    {
+      alert("notice:just can zoom picture , can album_move_video_msgbox=notice:if you move file which be used in blog and myvideo,it will cause loading file error.");
+      if(fd)
+      {
+        fd.src = url + 'minus.gif';
+      }
+      layer_toggle(hc);
+    } 
+    else 
+    {
+      if(fd)
+      {
+        fd.src = url + 'plus.gif';
+      }
+      layer_toggle(hc);
+    }
+  }
+</script>
+</head>
+<body  OnKeyUp="show_hotkey(event,show_hotkey_parameters)" onLoad="myFocus();" id="body_show">
+<style>
+  body{padding:0px;margin:0px auto;}  
+  select.hide-for-ie {visibility:hidden;}  
+  #Wretch-haha, #Wretch-haha-spacer, #Wretch-haha table, #Wretch-haha table tbody, #Wretch-haha table tbody tr, #Wretch-haha table tbody tr td, #Wretch-haha table tbody tr td a, #Wretch-haha table tbody tr td div, #Wretch-haha table tbody tr td div span, #Wretch-haha table tbody tr td div span a, #Wretch-haha table tbody tr td input{padding:0; margin:0;  visibility:visible !important; opacity:1 !important; clip:inherit !important; line-height:20px !important; font-size:12px !important;text-align:left !important}
+
+  #Wretch-haha-spacer{height:20px;height:20px;background:#EEEDDD;position:static;top:0px;}
+  #Wretch-haha{ background:#EEEDDD; height:20px; position:absolute; top:0 !important; right:0 !important;  z-index:50000; padding-right:5px; font-family:arial; font-size:12px; width:100%;margin-left:-5px;width:100%;left:0px;}
+  #Wretch-haha img{border:none; position:static !important}
+  #Wretch-haha table{display:table !important; background:#EEEDDD !important}
+  #Wretch-haha table tbody{display: table-row-group}
+  #Wretch-haha table tbody tr{display:table-row !important}
+  #Wretch-haha table tbody tr td{display:table-cell !important;}
+  #Wretch-haha-spacer, #Wretch-haha table tbody tr td div, #Wretch-haha table tbody tr td div span a{display:block !important}
+  #Wretch-haha table tbody tr td a, #Wretch-haha table tbody tr td span a, #Wretch-haha table tbody tr td input{display:inline;}
+  #Wretch-haha table tr td div{color:#ccc}
+
+
+  #Wretch-haha a{text-decoration:none; color:#000; background: transparent;cursor:pointer; font-weight:normal;font-size:12px;}
+  #Wretch-haha a:hover{text-decoration:underline}
+  #Wretch-haha table{height:20px;width:auto !important;}
+  #Wretch-haha td{color:#ccc}
+  #Wretch-haha input{border:none; height:16px}
+  #Wretch-haha input#Wretch-haha-query-text{filter:none;}
+  #Wretch-haha .Wretch-haha-text{width:100px !important; background:#fff; color:#666; font-size:11px; padding:0 5px 0 2px}
+  #Wretch-haha .Wretch-haha-submit{width:16px !important; background:transparent url(http://l.yimg.com/e/serv/common/img/zoom.gif) no-repeat; cursor:pointer}
+  #Wretch-haha-menubar {position:relative; z-index:50001;margin:0px 8px;overflow:visible;}
+  #Wretch-haha-menubar span{position:absolute; top:20px !important;*top:18px !important; left:2px;background-color:#FFFFFF; display:none; border:1px solid #DADADA;}
+  #Wretch-haha table #Wretch-haha-menubar span a {margin: 0 5px; white-space:nowrap;color:#0099CC;}
+  /*vitality*/
+  #Wretch-haha-vitality {display:inline-block !important;padding-right:15px !important;background-image:url(http://l.yimg.com/e/serv/common/img/ico_haha_bar_sprite.png) !important;background-repeat:no-repeat !important;border-left:1px solid #000;padding-left:8px !important;margin-left:8px !important;float:none;padding-top:0px;vertical-align:top;position:static;text-indent:0px !important;zoom:1;}
+  #Wretch-haha-vitality.off {display:none !important;}
+  #Wretch-haha-vitality:hover {text-decoration:underline;}
+  #Wretch-haha-vitality span.icon {display:none;position:absolute !important;}  
+  #Wretch-haha-vitality a:hover {top:0px;left:0px;position:relative;}
+  .vitality-alert span {display:inline-block;}
+  .vitality-alert span.vitality-btn {margin-left:18px;}
+  .vitality-alert span.icon{margin-top:3px;width:16px !important;display:inline-block !important;background:transparent url(http://l.yimg.com/e/serv/common/img/ico_haha_bar_sprite.png) right -178px no-repeat !important;_background-position:right -180px;text-indent:-9999px;}
+  #Wretch-haha-vitality {background-position:right -86px !important;}
+  #Wretch-haha .vitality-td #Wretch-haha-vitality {background-position:right -88px;}
+  #Wretch-haha-vitality.on {background-position:right -56px !important;}
+  #Wretch-haha .vitality-td .btn-on {background-position:right -58px !important;}
+  .menubar-arrow {background:transparent url(http://l.yimg.com/e/serv/common/img/ico_haha_bar_sprite.png) right -145px no-repeat !important;_background-position:right -147px !important;padding-right:10px !important;padding-left:0px !important;color: #000 !important;margin:0px 8px !important;}
+
+  #Wretch-haha-vitality-list {width:300px;position:absolute;top:20px;display:block;background:#FFFFFF;border:1px solid #dadada;overflow:hidden;visibility:hidden;left:-300px;padding:0;}
+  #Wretch-haha-vitality-list.expanded {visibility:visible;margin:0px;}
+  #Wretch-haha-vitality-list.loading ul.vitality-list{display:none;background:#FFFFFF;}
+  #Wretch-haha-vitality-list .vitality-loading{display:none;}  
+  #Wretch-haha-vitality-list.loading .vitality-loading{display:block;}  
+  #Wretch-haha-vitality-list.loading .vitality-empty{display:none;}  
+
+  #Wretch-haha-vitality-list ul.vitality-list{margin:0px;padding:0px;list-style-position:outside;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event{list-style-type:none;padding:5px 13px 5px 13px;margin:0px;clear:both;overflow:hidden;zoom:1;cursor:pointer;}
+  #Wretch-haha-vitality-list ul.vitality-list li.unread{background:#ECECEC;}
+  #Wretch-haha-vitality-list ul.vitality-list li.on{background:#d3ecf6;}
+  #Wretch-haha-vitality-list div.on{background:#d3ecf6;width:100%;overflow:hidden;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event img{width:48px;height:48px;background:#ECECEC;overflow:hidden;float:left;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event .content{float:left;margin-left:10px !important;font-size:12px;line-height:1.5;color:#333333;word-wrap:no-wrap;word-break:break-all;overflow:hidden;width:215px;*width:210px;margin-right:0px !important;padding:0px !important;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event .content p{padding:0px !important;margin:0px !important;display:block !important;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event .content a{color:#0099cc;display:inline !important;font-size:12px !important;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event .content a:hover {font-size:12px !important;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event .content span.time{color:#999999;display:block;float:left;}
+  #Wretch-haha-vitality-list ul.vitality-list li.vitality-event .content span.vitality-private{text-indent:-9999px;background:transparent url(http://l.yimg.com/e/serv/album/img/lock.gif);width:21px;height:16px;margin-left:5px;display:block;float:left;}
+  #Wretch-haha-vitality-list .vitality-msg{padding:10px 0px;text-align:center;color:#000000;cursor:pointer;}
+  #Wretch-haha-vitality-list .vitality-show-all{border-top:1px solid #dadada;display:block;padding:0px !important;}
+  #Wretch-haha-vitality-list.loading .vitality-show-all{display:none;}
+  #Wretch-haha-vitality-list .vitality-msg a{color:#0099cc;font-size:12px;}
+  .vitality-loading img{margin-right:5px;vertical-align:middle;}
+
+</style>
+<div id="Wretch-haha-spacer">&nbsp;</div>
+<div id="Wretch-haha">
+<div id="Wretch-haha-vitality-list">
+<div class="vitality-loading vitality-msg"><img src="http://l.yimg.com/e/serv/common/img/ico_spinner_16.gif">載入中</div>
+</div>
+<table align="right" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+          <td>
+        <!-- here needs another div, 'coz td can't be position:relatve in fF-->
+        <div id="Wretch-haha-menubar">
+                          <a class="menubar-arrow" href="/album/">Album</a>
+                          <span>
+                                    <a href="/blog/">Blog</a>
+                                    <a href="/video/">Video</a>
+                                    <a href="/digu/">Digu</a>
+                                    <a href="/join/">Join FP</a>
+                                    <a href="/">Wretch</a>
+                        <a href="http://tw.yahoo.com">Yahoo!Kimo</a>
+                          <a href="http://tw.help.cc.yahoo.com/help_cp.html?product=53">Help Page</a>
+                          <a href="http://tw.rd.yahoo.com/referurl/wretch/vip/insidepage/hahabarlink/evt=47619/*http://bill.wretch.cc/">Join VIP</a>
+          </span>
+        </div>
+      </td>
+      <td><a href="http://www.wretch.cc/IDintegration/?ref=%2525252Falbum%2525252Fshow.php%2525253Fi%2525253Dluss%25252526b%2525253D11%25252526f%2525253D1567747374%25252526p%2525253D0" style="margin:0 5px">Login</a></td>
+      <td><a href="http://www.wretch.cc/IDintegration/" style="margin: 0 5px 0 2px">Free Sign Up</a></td>
+                      <form action="http://tw.blog.search.yahoo.com/search" name="searchForm" method="get">
+        <input type="hidden" value="cb-wretch" name="fr"/>
+        <input type="hidden" value="wretch" name="provider"/>
+        <input type="hidden" name="type" value="photo"/>
+        <td><input type="text" class="Wretch-haha-text" id="Wretch-haha-query-text" name="p" value="找相簿"/></td>
+        <td><input type="submit" class="Wretch-haha-submit" value=""></td>
+        </form>
+              </tr>
+  </tbody>
+</table>
+<input type="hidden" id="crumb" value="">
+<input type="hidden" id="login" value="0">
+<input type="hidden" id="new-vitality" value="0">
+<input type="hidden" id="ask-vitality" value="0">
+</div>
+<script>
+(function(){
+  var menuBar = document.getElementById('Wretch-haha-menubar');
+  var query = document.getElementById('Wretch-haha-query-text');
+  if(query){
+    query.onfocus = function() {
+      if(this.value == '找相簿' || this.value == '找文章' || this.value == '找影音' || this.value == '找朋友' || this.value == '找揪團') 
+        this.value = '';
+    }
+  }
+})();
+</script>
+<script src="http://yui.yahooapis.com/combo?3.3.0/build/yui/yui-min.js"></script>
+<script>
+/*for vitality*/
+YUI().use('node', 'event', 'event-delegate', 'io', 'json-parse', function(Y){
+    var crumb = Y.one('#crumb').get('value'),
+        user = Y.one('#login').get('value'),
+        bAskVitality = (Y.one('#ask-vitality').get('value')==='1')? true: false,
+        bNewVitality = (Y.one('#new-vitality').get('value')==='1')? true: false,
+        user = Y.one('#login').get('value'),
+        vitalityList = Y.one('#Wretch-haha-vitality-list'),
+        vitalityBtn = null,
+        bodyWrap = Y.one('body'),
+        bReadVitality = false,
+        bAbort = false,
+        bReading = false,
+        bRequesting = false,
+        hahaBar = Y.one('#Wretch-haha'),
+        loading = Y.one('.vitality-loading').cloneNode(true);
+    var fixIESelect = function () {
+        if (Y.UA.ie) {
+            if (vitalityList.hasClass('expanded')) {
+                Y.all('select').addClass('hide-for-ie');
+            } else {
+                Y.all('select').removeClass('hide-for-ie');
+            }
+        }
+        return;
+    };
+    var expandList = function (e) {
+        bReadVitality = true;
+        if (bAbort===true) { // close
+            vitalityList.removeClass('expanded');
+            vitalityList.removeClass('loading');
+            fixIESelect();
+            return;
+        }
+        if(!vitalityList.one('.vitality-loading')){
+            vitalityList.insertBefore(loading.cloneNode(true), Y.one('.vitality-show-all'));
+        }
+        if (e.type === 'click'||e.type === 'focus') {
+            if (vitalityList.hasClass('expanded')) {
+                vitalityList.removeClass('expanded');
+                vitalityList.removeClass('loading');
+                bReading = false;
+            } else {
+                vitalityList.addClass('expanded');
+                vitalityList.addClass('loading');
+                update(e);
+            }            
+        } else {
+            vitalityList.addClass('expanded');
+            vitalityList.addClass('loading');
+            if (Y.UA.ie) {
+                Y.all('select').addClass('hide-for-ie');
+            }
+            later(update, e);
+        } 
+        fixIESelect();
+    };
+    var emptyList = function () {
+        if(vitalityList.one('.vitality-show-all')) {
+            vitalityList.one('.vitality-show-all').remove();
+        }
+    };
+    var update = function (e) {
+        e.currentTarget.removeClass('vitality-alert');
+        var uri = '/ajax/common/ajax_get_vitality_updates.php',
+            request,
+            onCompelete = function(id, o, args) {
+                try {
+                    emptyList();
+                    vitalityList.one('ul').set('innerHTML', o.responseText);
+                } catch (e) {
+                    vitalityList.set('innerHTML', o.responseText);
+                }
+                vitalityList.removeClass('loading');
+                bReading = true;
+                bAbort = false;
+                bRequesting = false;
+                fixIESelect();
+            },
+            cfg = {method: 'GET', data:'crumb='+crumb, on:{complete:onCompelete}};
+            if (!bRequesting) {
+                bRequesting = true;
+                request = Y.io(uri, cfg);
+            }
+    };
+    var later = function (fn, arg) {
+        setTimeout(function(){
+            if(!bAbort) {
+                fn(arg);
+            } else {
+                vitalityList.removeClass('expanded');
+                fixIESelect();
+            }
+        }, 1000);
+    };
+    var hover = function (eT) {
+        eT.toggleClass('on');
+        if(Y.UA.ie < 7 && eT.get('id') === 'Wretch-haha-vitality') {
+           eT.toggleClass('btn-on'); 
+        }
+    };
+    var resize = function () {
+        if(user === '1') {
+            vitalityBtn = Y.one('#Wretch-haha-vitality');
+            var x = vitalityBtn.getX()+'px';
+            vitalityList.setStyle('left', x);
+            if (Y.UA.ie === 6){
+                vitalityList.setStyle('marginLeft', '-220px');
+            } else {
+                vitalityList.setStyle('marginLeft', '-220px');
+            }
+        }
+    };
+    var init = function () {
+    if (user === '0') {
+        bReadVitality = true;
+        Y.one('#Wretch-haha-menubar').on('mouseover', function(e){
+            vitalityList.removeClass('expanded');
+            bAbort = true;
+            bReading = false;
+            e.currentTarget.one('span').setStyle('display', 'block');
+        });
+        Y.one('#Wretch-haha-menubar').on('mouseleave', function(e){
+            e.currentTarget.one('span').setStyle('display', 'none');
+        });
+    } else if (user === '1') {
+        vitalityBtn = Y.one('#Wretch-haha-vitality'); 
+        Y.one('#Wretch-haha-menubar').on('mouseover', function(e){
+            vitalityList.removeClass('expanded');
+            bAbort = true;
+            bReading = false;
+            e.currentTarget.one('span').setStyle('display', 'block');
+        });
+        Y.one('#Wretch-haha-menubar').on('mouseleave', function(e){
+            e.currentTarget.one('span').setStyle('display', 'none');
+        });
+        vitalityBtn.on('click', function(e){
+            hover(e.currentTarget);
+            e.halt();
+            bAbort = false;
+            expandList(e);
+        });
+        vitalityBtn.on('mouseover', function(e){
+            hover(e.currentTarget);
+            e.halt();
+            bAbort = false;
+            if (!bReading) { //not compeleted display
+                expandList(e);
+            }
+        });
+        vitalityBtn.on('mouseout', function(e){
+            hover(e.currentTarget);
+            e.halt();
+            bAbort = true;
+            if (!bReading) { //not compeleted display
+                expandList(e);
+            }
+        });
+        try {
+        vitalityBtn.on('focus', function(e){
+            e.halt();
+            bAbort = false;
+            expandList(e);
+        });
+        vitalityBtn.on('blur', function(e){
+            e.halt();
+            bAbort = true;
+            expandList(e);
+        });
+        } catch (e) {}
+        Y.delegate('mouseover', function(e) {
+            hover(this);
+        }, '#Wretch-haha-vitality-list', '.vitality-msg');
+        Y.delegate('mouseout', function(e) {
+            hover(this);
+        }, '#Wretch-haha-vitality-list', '.vitality-msg');
+        Y.delegate('click', function(e) {
+            location.href = (e.currentTarget.one('a').getAttribute('href'));
+        }, '#Wretch-haha-vitality-list', '.vitality-msg');
+        Y.delegate('mouseover', function(e) {
+            hover(this);
+        }, '#Wretch-haha-vitality-list', 'ul li');
+        Y.delegate('mouseout', function(e) {
+            hover(this);
+        }, '#Wretch-haha-vitality-list', 'ul li');
+        Y.delegate('click', function(e) {
+            location.href = this.getAttribute('_href');
+        }, '#Wretch-haha-vitality-list', 'ul li');
+        }
+    };
+
+    Y.on('resize', function(){resize();});
+    Y.one('body').on('click', function(){
+        vitalityList.removeClass('expanded');
+        fixIESelect();
+        bAbort = true;
+        bReading = false;
+    });
+    Y.on('domready', function (){
+        resize();
+        init();
+        setTimeout(function(){
+        var uri = '/ajax/common/ajax_has_new_vitality.php',
+            onCompelete = function(id, o, args) {
+                var oJSON = Y.JSON.parse(o.responseText);
+                if (oJSON.result) {
+                    Y.one('#Wretch-haha-vitality').addClass('vitality-alert');
+                }
+            },
+            cfg = {method: 'GET', data:'crumb='+crumb, on:{complete:onCompelete}};
+            if (!bReadVitality&bAskVitality) {
+                request = Y.io(uri, cfg);
+            } else if (!bReadVitality&&!bAskVitality&&bNewVitality) {
+                Y.one('#Wretch-haha-vitality').addClass('vitality-alert');
+            }
+        }, 5000);
+    });
+});
+</script>
+<div id="bigcontainer" style="position: relative !important; zoom:1 !important;" >
+
+<div align="center">
+  <table border="0" width="700">
+
+
+    <tr>
+
+    <td id="ad_banner" align="center" valign="middle" cellspacing="0px"
+        cellpadding="0px"
+        style="padding: 0px; /*border: 1px solid #000000;*/ width: 700px; height: 90px; /*background: #FFFFFF;*/ ">
+
+
+    <script language="JavaScript" type="text/javascript" charset="big5" src="http://tw2.adserver.yahoo.com/a?f=2022251759&p=tw_kwretch&l=N5&c=r"></script><noscript><iframe src="http://tw2.adserver.yahoo.com/a?f=2022251759&p=tw_kwretch&l=N5&c=h&bg=white" width=700 height=90 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></noscript>
+    </td>
+
+  </tr>
+  
+  </table>
+
+
+  <table border="0" width="700">
+    <tr>
+      <td rowspan="2" width="360" valign=middle>
+        <font class="normal-a">
+                      <!--$owner_id.$lang_salbum-->
+            <a href="/album/luss">luss's Album</a> &gt;
+            <a href="./album.php?id=luss&book=11">02/20 可愛摺耳貓--</a>
+        </font>
+      </td>
+
+      <td align="center" valign="middle">
+        <font class="small-c" >
+          <strong>
+            <span id="CurrentPicNum">1</span> / 41          </strong>
+        </font>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><font class="small-a">
+          <a href="./show.php?i=luss&b=11&f=1567747374&p=0" id="first" title="First(hotkey:z)">First</a> | 
+
+              <a id=prev>Previous</a> | 
+      
+              <a href="./show.php?i=luss&b=11&f=1567747375&p=1" id="next" title="Next(hotkey:c)">Next</a>  | 
+      
+        <a id="last" href="./show.php?i=luss&b=11&f=1567747414&p=40" title="Last(hotkey:v)">Last</a> |
+        <a href="http://www.wretch.cc/album/album.php?id=luss&book=11&page=1" id="updir" title="Top(hotkey:b)"> Top</a>
+        <br>
+      
+                      <a href="./show.php?i=luss&b=11&f=1567747374&p=0&s" id="slide" title="Slide Show(hotkey:s)">Slide Show</a>
+                                         |  <a href="./show.php?i=luss&b=11&f=1567747374&p=0&e#et" id="exif" title="EXIF(hotkey:i)">EXIF</a>
+                  
+        </font>
+      </td>
+    </tr>
+  </table>
+  <font class="small-e"><b><a href="/album/luss"> </a></b></font>
+</div>
+
+<div align="center">
+  <hr noshade size="1" align="center">
+  <font class="normal-c"><b>
+  <span id="DisplayTitle">
+      IMG_2066  </span>
+  </b></font>
+<p align="right">
+
+
+</p>
+  <table class="show" border=0 width=100%>
+  <tr>
+    <td align="center">
+                  
+              <!--social sharing start-->
+<div class="wsharing top" onmouseover="getElementsByTagName('div')[1].style.display = 'block';" onmouseout="getElementsByTagName('div')[1].style.display = 'none';">
+  <div class="hd">
+    <h5 title="分享出去" id="univshar-btn">分享</h5>
+    <span class="shortcut">
+      <a target="_blank" title="分享到 Facebook" href="http://tw.rd.yahoo.com/referurl/wretch/shareout/photo/facebook/SIG=178socuf5/*http%3A//www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.wretch.cc%2Frd%2Fphoto%2Ffacebook%2Fwww.wretch.cc%2Falbum%2Fshow.php%3Fi%3Dluss%26b%3D11%26f%3D1567747374%26p%3D0&t=IMG_2066-luss%E7%9A%84%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99" class="fb">Facebook</a>
+      <a target="_blank" title="分享到 Plurk" href="http://tw.rd.yahoo.com/referurl/wretch/shareout/photo/plurk/SIG=17ivpfjcl/*http%3A//www.plurk.com/?qualifier=shares&status=http%3A%2F%2Fwww.wretch.cc%2Frd%2Fphoto%2Fplurk%2Fwww.wretch.cc%2Falbum%2Fshow.php%3Fi%3Dluss%26b%3D11%26f%3D1567747374%26p%3D0+%28IMG_2066-luss%E7%9A%84%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99%29" class="plurk">Plurk</a>
+      <a title="分享到 Yahoo! Messenger" href="ymsgr:customstatus?IMG_2066-luss%E7%9A%84%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99+http%3A%2F%2Fwww.wretch.cc%2Frd%2Fphoto%2Fyim%2Fwww.wretch.cc%2Falbum%2Fshow.php%3Fi%3Dluss%26b%3D11%26f%3D1567747374%26p%3D0" class="yim">YAHOO!</a>
+    </span>
+    <span class="endrc"></span>
+  </div>
+  <div class="bd">
+    <ul>
+      <li class="fb"><a target="_blank" title="分享到 Facebook" href="http://tw.rd.yahoo.com/referurl/wretch/shareout/photo/facebook/SIG=178socuf5/*http%3A//www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.wretch.cc%2Frd%2Fphoto%2Ffacebook%2Fwww.wretch.cc%2Falbum%2Fshow.php%3Fi%3Dluss%26b%3D11%26f%3D1567747374%26p%3D0&t=IMG_2066-luss%E7%9A%84%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99">分享在我的 Facebook</a></li>
+      <li class="plurk"><a target="_blank" title="分享到 Plurk" href="http://tw.rd.yahoo.com/referurl/wretch/shareout/photo/plurk/SIG=17ivpfjcl/*http%3A//www.plurk.com/?qualifier=shares&status=http%3A%2F%2Fwww.wretch.cc%2Frd%2Fphoto%2Fplurk%2Fwww.wretch.cc%2Falbum%2Fshow.php%3Fi%3Dluss%26b%3D11%26f%3D1567747374%26p%3D0+%28IMG_2066-luss%E7%9A%84%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99%29">分享在我的 Plurk</a></li>
+      <li class="yim"><a title="分享到 Yahoo! 即時通" href="ymsgr:customstatus?IMG_2066-luss%E7%9A%84%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99+http%3A%2F%2Fwww.wretch.cc%2Frd%2Fphoto%2Fyim%2Fwww.wretch.cc%2Falbum%2Fshow.php%3Fi%3Dluss%26b%3D11%26f%3D1567747374%26p%3D0">分享在我的即時通</a></li>
+    </ul>
+  </div>
+  <div class="ft"></div>
+</div>
+<!--Social sharing end-->
+      
+      <a id='DisplayLink' href='./show.php?i=luss&b=11&f=1567747375&p=1'><img id='DisplayImage' src='http://f5.wretch.yimg.com/luss/11/1567747374.jpg?VXbogrNDcRAQ1c95BWeuet3lJAaAUuYcAg7Xvg41qeSs5REpOGMMhyMKRbD8wA--' border=0 alt='Next(hotkey:c)' /></a>
+                </td>
+  </tr>
+  </table>
+
+
+  <font class="normal-c">
+  <br>
+  <span id="DisplayDesc">
+                  </span>
+  <br>
+  </font>
+
+          <hr noshade size="1" align="center">
+<p align="right">
+<a style="font-size=8pt" target="_blank" href="http://tw.blog.search.yahoo.com/search?p=02%2F20+%E5%8F%AF%E6%84%9B%E6%91%BA%E8%80%B3%E8%B2%93--&fr=cb-wretch&type=photo&provider=wretch">搜尋更多</a>&nbsp;
+&nbsp;
+  <a style="font-size=8pt" href="http://www.wretch.cc/album/album.php?id=luss&book=11&izoom=1" target="_blank">
+<img  class="newVideoUpdate" alt="newVideoUpdate" src="http://pic.wretch.cc/e/serv/album/img/new_album.gif" border="0" />
+切割照片</a>&nbsp;&nbsp;
+<a style="font-size=8pt" href="http://cc.wretch.cc/help/prosecute.php?badid=luss&badbook=11&badfile=1567747374&cs=YTo0OntpOjA7TjtpOjE7czo0OiJsdXNzIjtpOjI7czowOiIiO2k6MztpOjIwOTk2O30-" target="_blank">Report this Picture</a><br/>
+</p>
+
+
+
+
+
+<table id="ad_square" border="0" align="center" cellspacing="10" style="word-break:break-all">
+  <tr>
+    <td>
+      <div style="padding: 0px; height: 120px; width: 120px; text-align: center">
+        <!--RAW TW 20040428--><IFRAME ALLOWTRANSPARENCY=TRUE FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=120 HEIGHT=120 SRC="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=120x120&site=155858&section_code=14507161&cb=1304846976285327&yrc=&ycg=&yyob=&pub_redirect_unencoded=1&pub_redirect=http://global.ard.yahoo.com/SIG=15sfgdldr/M=717272.14507161.14340786.10516490/D=tw_kwretch/S=2022251759:W/Y=KIMO/EXP=1304854176/L=n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF/B=gYpLLcorwvk-/J=1304846976285327/K=fPO8j0qM9ZEa3wS4wSOclQ/A=5380261/R=0/*"></IFRAME><!--RAW TW 20040428--><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['gYpLLcorwvk-']='&U=13d40l46c%2fN%3dgYpLLcorwvk-%2fC%3d717272.14507161.14340786.10516490%2fD%3dW%2fB%3d5380261%2fV%3d1';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF&T=17l282tnq%2fX%3d1304846976%2fE%3d2022251759%2fR%3dtw_kwretch%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dKIMO%2fF%3d4063277126%2fH%3dc2VydmVJZD0ibjc1aGEzVFdBdFBnYWtmejVnaDlLd0lDZ1htUFdrM0dZb0FBQS5uRiIgdFN0bXA9IjEzMDQ4NDY5NzYyODEyNDQiIA--%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3dEE02D674&U=13d40l46c%2fN%3dgYpLLcorwvk-%2fC%3d717272.14507161.14340786.10516490%2fD%3dW%2fB%3d5380261%2fV%3d1"></noscript>      </div>
+    </td>
+    <td class="side" align="center" width="120" height="120" valign="middle">
+      <a href="./show.php?i=luss&b=11&f=1567747375&p=1"><img src="http://f5.wretch.yimg.com/luss/11/thumbs/t1567747375.jpg?4fo4ZUlDcRBMiTxuhI0e_Z5pRyTeIMyOd9wfHgo5MnQ3tzzftEYC7Qo5xq7ThA--" border="0" alt="Thumbnail"/></a><br/>
+      <font class="small-c"></font>
+    </td>
+    <td class="side" align="center" width="120" height="120" valign="middle">
+      <a href="./show.php?i=luss&b=11&f=1567747376&p=2"><img src="http://f5.wretch.yimg.com/luss/11/thumbs/t1567747376.jpg?eqoEm2BDcRBWjhoWGHLkNA2aULLueen.j8_RVBBqOU1plsOs7kqfhkAVWnkwNQ--" border="0" alt="Thumbnail"/></a><br/>
+      <font class="small-c"></font>
+    </td>
+    <td class="side" align="center" width="120" height="120" valign="middle">
+      <a href="./show.php?i=luss&b=11&f=1567747377&p=3"><img src="http://f5.wretch.yimg.com/luss/11/thumbs/t1567747377.jpg?ejTSTX9DcRCmnkJpQ9_RfCAVHyhNXemlwynxyW5Y2AImGM84TkxXFrGiF.chJw--" border="0" alt="Thumbnail"/></a><br/>
+      <font class="small-c"></font>
+    </td>
+    <td class="side" align="center" width="120" height="120" valign="middle">
+      <a href="./show.php?i=luss&b=11&f=1567747378&p=4"><img src="http://f5.wretch.yimg.com/luss/11/thumbs/t1567747378.jpg?7UuyD4pDcRDtQc_qHKPrnAhBYKzVNHCDk5iJ.KxnRWf.qYitrPnrwhcD.NLTQQ--" border="0" alt="Thumbnail"/></a><br/>
+      <font class="small-c"></font>
+    </td>
+  </tr>
+  <tr>
+    <td height="30" width="120" valign="top" align="center">
+      <b>
+        Advertisement      </b>
+    </td>
+    <td height="40" width="120" valign="top" align="center">
+            <b>
+        <font class="small-e">
+      <a href="./show.php?i=luss&b=11&f=1567747375&p=1">IMG_2068</a>
+      </font></b>
+    </td>
+    <td height="40" width="120" valign="top" align="center">
+            <b>
+        <font class="small-e">
+      <a href="./show.php?i=luss&b=11&f=1567747376&p=2">IMG_2069</a>
+      </font></b>
+    </td>
+    <td height="40" width="120" valign="top" align="center">
+            <b>
+        <font class="small-e">
+      <a href="./show.php?i=luss&b=11&f=1567747377&p=3">IMG_2070</a>
+      </font></b>
+    </td>
+    <td height="40" width="120" valign="top" align="center">
+            <b>
+        <font class="small-e">
+      <a href="./show.php?i=luss&b=11&f=1567747378&p=4">IMG_2072</a>
+      </font></b>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+  <hr noshade size="1" align="center">
+  
+
+
+</div>
+
+<SCRIPT type="text/javascript" language="JavaScript">
+  myFocus();
+  function myFocus()
+  {
+          document.getElementById('next').focus();
+      }
+</SCRIPT>
+
+<script id="bcw" type="text/javascript">var random_num=Math.random();document.write("<img style=\"display:none;\" width=1 height=1 src=http://geo.yahoo.com/b?s=2022251759&make=yahoo&type=wretch&t="+random_num+">");</script><!-- http://global.ard.yahoo.com/SIG=160o6u5n6/M=550075.12408437.12786996.12028108/D=tw_kwretch/S=2022251759:FOOT9/Y=KIMO/EXP=1304854176/L=n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF/B=f4pLLcorwvk-/J=1304846976285327/K=fPO8j0qM9ZEa3wS4wSOclQ/A=5272120/R=0/* -->        <!-- SpaceID=2022251759 loc=FR001 noad -->
+</div>
+<!-- SpaceID=2022251759 loc=KFE noad -->
+<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['gIpLLcorwvk-']='&U=12bvh4947%2fN%3dgIpLLcorwvk-%2fC%3d-1%2fD%3dKFE%2fB%3d-1%2fV%3d0';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF&T=17ls2lqlo%2fX%3d1304846976%2fE%3d2022251759%2fR%3dtw_kwretch%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dKIMO%2fF%3d3845914636%2fH%3dc2VydmVJZD0ibjc1aGEzVFdBdFBnYWtmejVnaDlLd0lDZ1htUFdrM0dZb0FBQS5uRiIgdFN0bXA9IjEzMDQ4NDY5NzYyODEyNDQiIA--%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3dEE02D674&U=12bvh4947%2fN%3dgIpLLcorwvk-%2fC%3d-1%2fD%3dKFE%2fB%3d-1%2fV%3d0"></noscript></body>
+</html>
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/d/lib/bc/bcr_2.0.5.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF&T=17gf4cef6%2fX%3d1304846976%2fE%3d2022251759%2fR%3dtw_kwretch%2fK%3d5%2fV%3d1.1%2fW%3dJR%2fY%3dKIMO%2fF%3d4020615503%2fH%3dc2VydmVJZD0ibjc1aGEzVFdBdFBnYWtmejVnaDlLd0lDZ1htUFdrM0dZb0FBQS5uRiIgdFN0bXA9IjEzMDQ4NDY5NzYyODEyNDQiIA--%2fI%3d1%2fS%3d1%2fJ%3dEE02D674');
+if(window.yzq_s)yzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF&T=17k2una2a%2fX%3d1304846976%2fE%3d2022251759%2fR%3dtw_kwretch%2fK%3d5%2fV%3d3.1%2fW%3dJR%2fY%3dKIMO%2fF%3d876288403%2fH%3dc2VydmVJZD0ibjc1aGEzVFdBdFBnYWtmejVnaDlLd0lDZ1htUFdrM0dZb0FBQS5uRiIgdFN0bXA9IjEzMDQ4NDY5NzYyODEyNDQiIA--%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3dEE02D674"></noscript><script language=javascript>
+if(window.xzq_p==null)document.write("<scr"+"ipt language=javascript src='http://e.yimg.com/ii/yabcs.js'></scr"+"ipt>");
+</script><script language=javascript>
+if(window.xzq_svr)xzq_svr('http://csc.beap.ad.yieldmanager.net/');
+if(window.xzq_p)xzq_p('i?bv=1.0.0&bs=(128ji9f71(gid$n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF,st$1304846976281244,v$1.0))&t=JR-DR');
+if(window.xzq_s)xzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://csc.beap.ad.yieldmanager.net/i?bv=1.0.0&bs=(128ji9f71(gid$n75ha3TWAtPgakfz5gh9KwICgXmPWk3GYoAAA.nF,st$1304846976281244,v$1.0))&t=JR-DR"></noscript>
+<!-- w207.wretch.tp2.yahoo.com uncompressed/chunked Sun May  8 17:29:36 CST 2011 -->
